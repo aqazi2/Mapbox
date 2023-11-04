@@ -7,4 +7,4 @@
 •	Make the app interactive
 •	Add a marker
 •	Final product
-•	Next steps
+•	Next step
